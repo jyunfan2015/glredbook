@@ -1,0 +1,8 @@
+dist
+build
+doc/javadoc
+.settings
+*.class
+*.log
+*~/
+
